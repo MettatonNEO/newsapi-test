@@ -9,7 +9,7 @@ Page elements order and description:<br>
 // данная часть получилась, дата будет меняться в зависимости от того, какой сегодня день<br><br>
 
 ● hero element with top 5 headlines, they must be inline;<br>
-// hero element создан, но мне не удалось вставить туда топ-5 новостей<br><br>
+// hero element создан, но мне не удалось вставить туда топ-5 новостей. Картинка находится в <b>img.rar</b>, разахривируйте его, так как гитхаб не хочет принимать папки<br><br>
 
 ● form for search, display rules:<br>
 ■ for mobile - field per row;<br>
