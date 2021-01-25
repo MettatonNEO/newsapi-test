@@ -1,0 +1,43 @@
+Microsoft Windows [Version 10.0.17763.253]
+(c) Корпорация Майкрософт (Microsoft Corporation), 2018. Все права защищены.
+
+C:\Users\Алексей>node --version
+v10.14.1
+
+C:\Users\Алексей>npm i newsapi
+
+> core-js@3.8.3 postinstall C:\Users\Алексей\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+> https://opencollective.com/core-js
+> https://www.patreon.com/zloirock
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+npm WARN saveError ENOENT: no such file or directory, open 'C:\Users\Алексей\package.json'
+npm WARN enoent ENOENT: no such file or directory, open 'C:\Users\Алексей\package.json'
+npm WARN Алексей No description
+npm WARN Алексей No repository field.
+npm WARN Алексей No README data
+npm WARN Алексей No license field.
+
++ newsapi@2.4.1
+added 3 packages from 2 contributors and audited 20 packages in 3.216s
+found 0 vulnerabilities
+
+C:\Users\Алексей>npm start
+npm ERR! path C:\Users\Алексей\package.json
+npm ERR! code ENOENT
+npm ERR! errno -4058
+npm ERR! syscall open
+npm ERR! enoent ENOENT: no such file or directory, open 'C:\Users\Алексей\package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Алексей\AppData\Roaming\npm-cache\_logs\2021-01-23T12_39_00_662Z-debug.log
+
+C:\Users\Алексей>
