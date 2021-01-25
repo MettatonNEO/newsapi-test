@@ -28,3 +28,5 @@ Each article is represented by card with:<br>
 ● title which links original source so user could actualy read it;<br>
 ● publish date in format dd-mm-YYYY <br>
 // удалось вывести список новостей на страницу (файл news.json), но не удалось адаптировать его под разные экраны, а также дата публикации будет меняться в зависимости от того, какой сегодня день
+
+Также при установке данного API я столкнулся с такой проблемой. На NodeJS появлялись ошибки, описанные в файле <b>newsapi installation log</b>. Это имеет отношение к не совсем корректному отображению новостей на странице?
